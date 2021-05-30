@@ -7,9 +7,9 @@ theme:            jekyll-theme-cayman
 permalink:        pretty
 
 # Setup
-title:            Lilbigblog
-tagline:          "Lilbigmouth's tech-related blog"
-description:      "Lilbigmouth's tech-related blog"
+title:            lilbigblog
+tagline:          "lilbigmouth's tech-related blog"
+description:      "lilbigmouth's tech-related blog"
 url:              https://lilbigmouth.github.io/
 version:          0.1.0
 
