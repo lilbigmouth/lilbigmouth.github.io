@@ -240,6 +240,15 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
+/* Demi purple */
+.demi .sidebar {
+  background-color: #810081;
+}
+.demi .content a,
+.demi .related-posts li a:hover {
+  color: #810081;
+}
+
 /* Brown */
 .theme-base-0f .sidebar {
   background-color: #8f5536;
